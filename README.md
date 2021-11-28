@@ -1,0 +1,2 @@
+# Release
+ServerInfoPanelTeamがリリースしたプラグインの最新版はここでダウンロードできます。
